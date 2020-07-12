@@ -40,6 +40,9 @@ export const Repository = styled.div`
     padding: 15px 0 0 80px;
     margin: 20px 2px 0 -50px;
     width: 100%;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
   }
 
   a {
