@@ -17,3 +17,25 @@ mas caso isso não ocorra basta acessar [http://localhost:3000](http://localhost
 #### Ainda poderemos ver os outros scripts que o Create react app nos fornece por padrão!
 
 Mas aqui já temos o mínimo para iniciar nossos estudos!
+
+## Libs e recursos:
+
+### Create React App
+
+### Styled Components
+
+### Axios
+
+### React Router Dom
+
+### React icons (Feathre Icons)
+
+## Sugestões:
+
+### Criar validação de duplicidade de repositório
+
+### Criar navegação entre página com mais detalhes do repositório
+
+### Talvez criar alguns testes já que o create react app ja vem com o jest configurado!
+
+Colaborem, criem funcionalidades e idéias!
