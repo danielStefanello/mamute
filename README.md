@@ -1,6 +1,6 @@
 Este projeto foi criado com [Create React App](https://github.com/facebook/create-react-app).
 
-### Inicio do projeto
+## Inicio do projeto
 
 Clone o repositório e dentro da pasta do projeto você pode rodar:
 
@@ -14,17 +14,17 @@ Pronto teremos o app rodando na porta 3000 do seu localhost.<br />
 Por padrão este script já abre a janelda do app no browser,<br />
 mas caso isso não ocorra basta acessar [http://localhost:3000](http://localhost:3000).
 
-##### Ainda poderemos ver os outros scripts que o Create react app nos fornece por padrão!
+#### Ainda poderemos ver os outros scripts que o Create react app nos fornece por padrão!
 
 Mas aqui já temos o mínimo para iniciar nossos estudos!
 
 ### Libs e recursos:
 
-- Create React App
-- Styled Components
-- Axios
-- React Router Dom
-- React icons (Feathre Icons)
+- [Create React App](https://create-react-app.dev/docs/getting-started/)
+- [Styled Components](https://styled-components.com/)
+- [Axios](https://www.npmjs.com/package/axios)
+- [React icons](https://react-icons.github.io/react-icons/) - (Feather icons)
+- Api do [GitHub](https://developer.github.com/v3/)
 
 ### Sugestões:
 
