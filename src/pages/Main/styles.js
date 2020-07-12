@@ -77,7 +77,7 @@ export const Field = styled.form`
     border-bottom-left-radius: 8px;
     border: 2px solid #8c5929;
     border-right: 0;
-    transition: width 0.2s;
+    transition: width 1s;
 
     &:focus {
       width: 100%;
@@ -93,10 +93,7 @@ export const Field = styled.form`
     align-items: center;
     justify-content: center;
     width: 46px;
-
-    svg {
-      color: #ac8866;
-    }
+    color: #ac8866;
   }
 
   span {
